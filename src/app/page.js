@@ -23,7 +23,7 @@ export default function HomePage() {
           <div className="flex items-center gap-3">
             <div className="neon-border rounded-xl border border-white/10 bg-zinc-950/60 px-3 py-2">
               <span className="text-sm tracking-wide text-zinc-200">
-                <Image className="color-white min-w-25 min-h-25" width={60} height={60} alt="Next.js Logo" src={"CustomCodedWhite.svg"} />
+                <Image className="color-white min-w-20 min-h-20" width={60} height={60} alt="Next.js Logo" src={"CustomCodedWhite.svg"} />
               </span>
             </div>
             <div>
