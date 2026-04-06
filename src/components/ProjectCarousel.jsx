@@ -2,9 +2,9 @@
 
 const PROJECTS = [
     {
-        title: "Disoriented Clothing",
-        desc: "Production ecommerce platform for a live apparel brand. Built for performance, maintainability, and real customer transactions.",
-        href: "https://disorientedclo.com",
+        title: "Prachi Henna Art",
+        desc: "Production ecommerce platform for a live creative design and fashion brand. Built for performance, maintainability, and real customer transactions.",
+        href: "https://prachihennaart.com",
         preview:
             "Next.js storefront, payments integration, product management, deployment-ready architecture.",
         tag: "Live Production",
